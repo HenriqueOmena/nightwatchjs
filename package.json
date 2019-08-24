@@ -1,0 +1,19 @@
+{
+  "name": "nightwatchjs",
+  "version": "1.0.0",
+  "description": "Trainnins skills with tests UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueOmena/nigthwatchjs.git"
+  },
+  "author": "Henrique Omena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriqueOmena/nigthwatchjs/issues"
+  },
+  "homepage": "https://github.com/HenriqueOmena/nigthwatchjs#readme"
+}
