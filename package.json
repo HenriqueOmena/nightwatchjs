@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/HenriqueOmena/nigthwatchjs/issues"
   },
-  "homepage": "https://github.com/HenriqueOmena/nigthwatchjs#readme"
+  "homepage": "https://github.com/HenriqueOmena/nigthwatchjs#readme",
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "geckodriver": "^1.16.2"
+  }
 }
